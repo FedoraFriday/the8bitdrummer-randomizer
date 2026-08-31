@@ -1,7 +1,6 @@
 # the8bitdrummer-randomizer
 a manual to turn the8bitdrummer's stream into a randomizer
 
-https://www.twitch.tv/the8bitdrummer/clip/GleamingToughWebSwiftRage-SfY1R5uTKBXYY9T_
 Because I thought it would be funny I turned the8bitdrummer's stream into a manual Archipelago randomizer
 
 Every alert is a check. You check them off when they occur on stream.
